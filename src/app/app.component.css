@@ -1,0 +1,23 @@
+.search-bar {
+  margin-top: 3%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+header,
+a {
+  font-family: "Rubik Beastly", cursive;
+}
+
+.gifs {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 140%;
+  margin:0 auto;
+  margin-top: 5%;
+}
+
+.gif img {
+  max-width: 140%;
+  cursor: pointer;
+}
